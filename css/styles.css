@@ -105,6 +105,11 @@ a:hover {
   margin-left: 30px;
 }
 
+.my-image {
+  width: 30%;
+  border-radius: 100%;
+}
+
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
